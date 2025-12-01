@@ -34,16 +34,16 @@ highlight_name: true
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:wangyujia820@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/spacetimeback
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yujia-wang-663b1330a/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=OmPWvT0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-6490-4589
 
 interests:
   - Large Language Models
