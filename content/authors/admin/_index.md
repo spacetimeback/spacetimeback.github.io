@@ -41,7 +41,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&user=OmPWvT0AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
